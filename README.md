@@ -1,4 +1,4 @@
-## toastmod | rust/c#/python/html/js/css
+## toastmod | rust/web/python/c#/java
 ### some random projects:
 * [datarender](https://github.com/toastmod/datarender)
 * [avagadro-calc](https://github.com/toastmod/avagadro-calc)
