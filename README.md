@@ -1,4 +1,4 @@
-## toastmod | [rust/c#/java/python/web]
+## toastmod | [rust/c/c#/java/python/web]
 Computer Science student with interests in graphics, emulation, and music.
 ### some random projects:
 * [vsthost](https://github.com/toastmod/vsthost)
