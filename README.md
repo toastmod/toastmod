@@ -1,6 +1,7 @@
 ## toastmod | [rust/c/c#/java/python/web]
 Computer Science student with interests in graphics, emulation, and music.
 ### Some random projects:
+* [panels](https://github.com/toastmod/panels)
 * [vsthost](https://github.com/toastmod/vsthost)
 * [datarender](https://github.com/toastmod/datarender)
 * [avagadro-calc](https://github.com/toastmod/avagadro-calc)
