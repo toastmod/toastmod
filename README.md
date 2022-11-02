@@ -5,6 +5,7 @@ Computer Science student with interests in graphics, emulation, and music.
 * [vsthost](https://github.com/toastmod/vsthost)
 * [datarender](https://github.com/toastmod/datarender)
 * [avagadro-calc](https://github.com/toastmod/avagadro-calc)
+* [scaledslice](https://github.com/toastmod/scaledslice)
 * a DAW
 * a game (or two)?
 
