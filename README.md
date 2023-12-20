@@ -10,5 +10,5 @@ Computer Science student with interests in graphics, emulation, and music.
 * a game (or two)?
 
 ### Things I want to make
-* QEMU for Xbox One
+* win32 compatability for Xbox One
 * A Wayland compositor for Android
