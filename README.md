@@ -6,10 +6,12 @@ I usually write wih **Rust, C/C++, C#, Python, or Javascript**.
 * [nodenote](https://github.com/toastmod/nodenote) - A concept for a notetaking application.
 * [avagadro-calc](https://github.com/toastmod/avagadro-calc) - My calculator for university chemistry courses :P
 
+### I'm massively inspired by
+* [Eric Migicovski](https://github.com/ericmigi)
+* [Zhuowei Zhang](https://github.com/zhuowei)
+
 ### Niche topics I'm interested in
-* Userspace Emulation of CPU Architectures
-* OS Development <sup>(currently just Windows or AOSP)</sup> 
-* GPU and Graphics Development
-* UX Design
-* Software/Device Ecosystem Design
+* Reverse Engineering
+* Graphics Programming
+* Userspace Emulation
 * Audio Software
