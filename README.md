@@ -1,5 +1,5 @@
 Hello, I'm currently a 4th year computer science student!\
-I usually write wih **Rust, C/C++, C#, Python, or Javascript**.
+I usually write with **Rust, C/C++, C#, Python, or Javascript**.
 ### Side-projects
 * [safehouse](https://github.com/toastmod/projectsafehouse) - My personal rendering engine project.
 * [landgen](https://github.com/toastmod/landgen) - My first attempt at a terrain generator.
