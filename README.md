@@ -1,4 +1,4 @@
-Hello, I'm currently a 4th year computer science student!\
+Hello, I'm Andrew! I'm a computer science graduate :)\
 I usually write with **Rust, C/C++, C#, Python, or Javascript**.
 ### Side-projects
 * [safehouse](https://github.com/toastmod/projectsafehouse) - My personal rendering engine project.
