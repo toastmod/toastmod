@@ -1,6 +1,7 @@
 Hello, I'm Andrew! I'm a computer science graduate :)\
 I usually write with **Rust, C/C++, C#, Python, or Javascript**.
 ### Side-projects
+* [AI](https://github.com/toastmod/ai) - Personal WIP implementations of AI algorithms for self-learning.
 * [safehouse](https://github.com/toastmod/projectsafehouse) - My personal rendering engine project.
 * [landgen](https://github.com/toastmod/landgen) - My first attempt at a terrain generator.
 * [nodenote](https://github.com/toastmod/nodenote) - A concept for a notetaking application.
